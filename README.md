@@ -1,7 +1,3 @@
-Here’s the full English translation of your `README.md` for PyGuard-IDS-IPS:
-
----
-
 # 🛡️ PyGuard-IDS-IPS
 
 **Network-Based Intrusion Detection and Prevention System**
