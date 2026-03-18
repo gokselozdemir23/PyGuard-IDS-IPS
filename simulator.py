@@ -7,9 +7,9 @@ without requiring real attack tools (e.g., hping3, nmap).
 
 Usage::
 
-    sudo python3 simulator.py --attack syn_flood --target 192.168.1.1
-    sudo python3 simulator.py --attack all --target 192.168.1.1
-    sudo python3 simulator.py --attack xmas_scan --target 192.168.1.1 --count 20
+    sudo python3 simulator.py --attack syn_flood --target 127.0.0.1
+    sudo python3 simulator.py --attack all --target 127.0.0.1
+    sudo python3 simulator.py --attack xmas_scan --target 127.0.0.1 --count 20
 
 ⚠️  This tool should only be used for testing within your own network.
     Sending packets to external networks without permission is illegal.
